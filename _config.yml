@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Karleigh Moore
+description: MIT 2017 | Computer Science and Comparative Media Studies
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://kar-moore.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: kar-moore
+   twitter: 
+   facebook: 
+   email: kjmoore@mit.edu
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
