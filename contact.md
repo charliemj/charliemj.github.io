@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Me
 ---
 
-<div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
-  <div class="contactContent">
-    <p>To contact me, send me an email at kjmoore@mit.edu</p>
+### Contact Me
 
-</div>
+Email is the best way to reach me! 
+
+Email: kjmoore@mit.edu
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/karleighmoore)
+
+My [github](https://github.com/kar-moore/) 
