@@ -1,8 +1,8 @@
 title: Karleigh Moore
 description: MIT 2017 | Computer Science and Comparative Media Studies
 
-url: http://kar-moore.github.io
-baseurl: "/about"
+url: http://kar-moore.github.io/about
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
