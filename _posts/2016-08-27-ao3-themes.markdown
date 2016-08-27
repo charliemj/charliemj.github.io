@@ -4,7 +4,7 @@ title:  "Making Skins For Archive of Our Own"
 date:   2016-08-27
 ---
 
-I read more fan fiction than I probably should. It's impressive really. Given the amount of time I spend on the site, I wanted to contribute to it somehow. I've often wanted to have different fonts and a darker background for the site, and this can be accomplished by changing the site's "skin" or CSS theme. I wasn't too excited about any of the exisiting public themes, so I started to make my own. You can see the skins I've made on my [github account](https://github.com/kar-moore/ao3_skins) — feel free to use them (or modify theme) as you see fit.  
+I read more fan fiction than I probably should. It's impressive really. Given the amount of time I spend on [Archive of Our Own](https://archiveofourown.org), I wanted to contribute to the site somehow. I've often wanted to have different fonts and a darker background for the site, and this can be accomplished by changing the site's "skin" or CSS theme. I wasn't too excited about any of the exisiting public themes, so I started to make my own. You can see the skins I've made on my [github account](https://github.com/kar-moore/ao3_skins) — feel free to use them (or modify theme) as you see fit.  
 
 I noticed that it was a little hard to start writing the skins since there are lots of classes and ids in the HTML — I couldn't just change the font type for all the text on the whole site. I couldn't find any documentation about the main format of the site HTML-wise, so I mostly just "inspected" pages to find all the areas I wanted the font and colors changed. In the hopes of helping future skin creators out, I've tried to make a little documentation of sorts and I'll try to add a lot of comments to my CSS files. 
 
