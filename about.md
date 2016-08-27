@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-<link href="/assets/css/stylephoto.css" rel="stylesheet"></link>
+<link href="/assets/css/stylephoto.css" rel="stylesheet">
 <img id="headshot" src="/assets/img/karleighmoore.jpg">
 
 
