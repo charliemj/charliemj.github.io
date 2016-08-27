@@ -3,6 +3,7 @@ layout: default
 title: About Me
 ---
 
+<img href="/assets/img/karleighmoore.jpg">
 
 I’m Karleigh Moore and I’m a software engineer currently based in Cambridge, MA. In June 2017, I’ll be graduating from [MIT](http://mit.edu) with a double major in [Computer Science](http://eecs.mit.edu) and [Comparative Media Studies](http://cmsw.mit.edu). In my free time, I am a reporter and editor for MIT’s newspaper, [<i>The Tech</i>](http://thetech.com).
 
