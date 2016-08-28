@@ -1099,7 +1099,7 @@ dd {
     .header {
         height: 15em;
         position: relative;
-        padding-bottom: 2em
+        /*padding-bottom: 2em*/
     }
     .header .container {
         position: relative;
