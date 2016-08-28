@@ -32,9 +32,9 @@ A big change I made was to add a SVG to overlay on the banner image to create th
 To the bottom of my css file and added
 
 ```html
-	<svg id="tri" width="100%" height="40%" viewBox="0 0 100 100" preserveAspectRatio="none">
-        <polygon points="100,100 100,0 0,100" style="fill:white"/>
-    </svg>
+<svg id="tri" width="100%" height="40%" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <polygon points="100,100 100,0 0,100" style="fill:white"/>
+</svg>
 
 ```
 
