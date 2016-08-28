@@ -1257,14 +1257,19 @@ dd {
     }
 }
 
+
 #tri{
     position: absolute;
     right: 0;
     bottom:0;
 }
 
+@media all and (orientation: portrait){
+    #tri{
+        display:none;
+    }
 
-
+}
 
 
 
