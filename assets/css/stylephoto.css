@@ -9,3 +9,15 @@
 	padding: 10px;
 	margin-right:10px;
 }
+
+#km{
+	width: 25%;
+	height: auto;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	display: inline;
+	float:left;
+	padding: 10px;
+	margin-right:10px;
+}
