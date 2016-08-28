@@ -6,3 +6,5 @@ slug: colophon
 
 ---
 Colophon
+
+This site is powered by <a href="http://jekyllrb.com">Jekyll </a>
