@@ -2,6 +2,8 @@
 layout: post
 title:  "Making Skins For Archive of Our Own"
 date:   2016-08-27
+category: projects
+tags: [web, open source]
 slug: ao3-skins
 ---
 
