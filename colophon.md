@@ -7,11 +7,9 @@ slug: colophon
 ---
 Colophon
 
-This site is powered by <a href="http://jekyllrb.com">Jekyll </a>
+This site is powered by <a href="http://jekyllrb.com">Jekyll </a> and this theme is based off of [@brianmaierjr](https://twitter.com/brianmaierjr)'s [Long Haul](https://github.com/brianmaierjr/long-haul). 
 
-This theme is based off of [@brianmaierjr](https://twitter.com/brianmaierjr)'s [Long Haul](https://github.com/brianmaierjr/long-haul). 
-
-A big change I made was to add a SVG to overlay on the banner image to create the sloping effect. In the original code, this was accomplished in CSS by positioning a rectanglular div and rotating it by two degrees. I discovered that on larger screens, the banner image would peak out underneath the rectangle. To fix this, I added
+A change I made to the theme was to add a SVG to overlay on the banner image to create the sloping effect. In the original code, this was accomplished in CSS by positioning a rectanglular div and rotating it by two degrees. I discovered that on larger screens, the banner image would peak out underneath the rectangle. To fix this, I added
 
 ```css
 #tri{
