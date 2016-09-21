@@ -15,9 +15,8 @@ navigation:
  - title: Home
    url: /about
  - title: Blog
-   url: /blog.html
- - title: Contact
-   url: /contact
+   url: /blog
+ 
 
 social:
    github: kar-moore
