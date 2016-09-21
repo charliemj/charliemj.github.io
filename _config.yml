@@ -13,9 +13,9 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /about
+   url: /index.html
  - title: Blog
-   url: /blog
+   url: ..
  
 
 social:
