@@ -15,7 +15,7 @@ navigation:
  - title: Home
    url: /about
  - title: Blog
-   url: /index.html
+   url: /blog.html
  - title: Contact
    url: /contact
 
