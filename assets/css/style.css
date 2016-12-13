@@ -3,21 +3,21 @@
 
 
 body{
-	font-size: 1em;
-	line-height: 1.15;
-	margin:0;
-	max-width:100%;
-	font-family: 'PT Serif', serif;
-	color:black;
+    font-size: 1em;
+    line-height: 1.15;
+    margin:0;
+    max-width:100%;
+    font-family: 'PT Serif', serif;
+    color:black;
 } 
 
 a{
-	color: white;
+    color: white;
 }
 
 
 a:hover{
-	color: silver;
+    color: silver;
 }
 
 /*header section*/
@@ -31,16 +31,16 @@ a:hover{
     position:relative;
 
     /*I decided against this banner image for now, but keeping code anyway*/
-	background-image: url("../img/banner.png");
+    background-image: url("../img/banner.png");
     background-size: cover;
     background-position: center center;
 }
 
 .home{
-	text-transform: uppercase;
-	font-size: 3.5em;
-	text-decoration: none;
-	width:100%;
+    text-transform: uppercase;
+    font-size: 3.5em;
+    text-decoration: none;
+    width:100%;
     background-color: #000;
     margin:0;
     padding-bottom:10px;
@@ -50,21 +50,21 @@ a:hover{
 }   
 
 .home a{
-	text-decoration:none;
-	margin-left:10px;
+    text-decoration:none;
+    margin-left:10px;
 }
 
 
 .navbar a{
-	color:white;
-	margin-right:10px;
-	font-size:1.3em;
-	text-decoration:none;
+    color:white;
+    margin-right:10px;
+    font-size:1.3em;
+    text-decoration:none;
 }
 
 .navbar a:hover{
-	color:silver;
-	border-bottom: 2px silver solid;
+    color:silver;
+    border-bottom: 2px silver solid;
 }
 
 #tri{
@@ -92,71 +92,76 @@ a:hover{
 /*content section*/
 
 .content{
-	margin-left:160px;
-	margin-right:160px;
-	position:relative;
-	font-size: 1.15em;
+    margin-left:160px;
+    margin-right:160px;
+    position:relative;
+    font-size: 1.15em;
 }
 
 .content a{
-	color:black;
-	text-decoration:none;
-	border-bottom: 1px black dotted;
+    color:black;
+    text-decoration:none;
+    border-bottom: 1px black dotted;
 }
 
 .content a:hover{
-	color:silver;
+    color:silver;
 }
 
 .content p{
-	line-height: 1.20em;
+    line-height: 1.20em;
 }
 
 
 #headshot{
-	border-radius: 50%;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	display: inline;
-	float:left;
-	padding: 10px;
-	margin-right:10px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    display: inline;
+    float:left;
+    padding: 10px;
+    margin-right:10px;
 }
 
+.blogpic{
+    width:100%;
+    margin-top:20px;
+    margin-bottom:20px;
+}
 
 #footer{
-	margin-left: auto;
+    margin-left: auto;
     margin-right: auto;
-	padding-bottom:1em;
-	height: 20px;
-	background-color:white;
-	border-top: 4px solid #d9d9d9;
+    padding-bottom:1em;
+    height: 20px;
+    background-color:white;
+    border-top: 4px solid #d9d9d9;
 }
 
 
 #footer p{
-	margin:5px;
+    margin:5px;
 }
 
 /*Project page*/
 
 .text p{
-	color: white;
+    color: white;
 }
 
 .projectpic{
-	display:block;
-	margin-right:auto;
-	margin-left:auto;
-	padding-top:5px;
-	padding-bottom:5px;
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
 /*css to make game cards more readable on the CMS projects page*/
 .card{ 
-	padding:2px;
-	background-color:black;
-	margin-bottom:5px;
+    padding:2px;
+    background-color:black;
+    margin-bottom:5px;
 }
 
 /*used in photography, CMS, and overall projects page*/
@@ -176,20 +181,20 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
 /*styling for hoving over the project photos on the projects page*/
 /*This section inspired by http://jsfiddle.net/9pn8Z/6/*/
 .rt_tilewrap {
-	padding: 2px;
-	display: inline-block;
-	text-align: center;
-	vertical-align: top;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
     background:gray;
     margin:10px;
 }
 
 .rt_timg {
-	width: auto;
-	height: auto;
-	display:block;
-	position: relative;
-	float:left;
+    width: auto;
+    height: auto;
+    display:block;
+    position: relative;
+    float:left;
 }
 
 .rt_imgwrap{
@@ -198,20 +203,20 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
 }
 
 .rt_tileoverlay {
-	height: 100%;
-	width: 0;
-	color:white;
-	overflow:hidden;
-	position: absolute;
-	background-color: rgba(80,80,80, 0.8);
-	transition: all 0.5s ease-in-out;
-	margin-left: 0px;
-	-webkit-transition: all .5s ease;
-	-moz-transition: all .5s ease;
-	-ms-transition: all .5s ease;
-	-o-transition: all .5s ease;
-	transition: all .5s ease;
-	z-index: 1;
+    height: 100%;
+    width: 0;
+    color:white;
+    overflow:hidden;
+    position: absolute;
+    background-color: rgba(80,80,80, 0.8);
+    transition: all 0.5s ease-in-out;
+    margin-left: 0px;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+    z-index: 1;
 }
 
 .rt_imgwrap:hover > .rt_tileoverlay {
