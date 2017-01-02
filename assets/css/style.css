@@ -15,7 +15,6 @@ a{
     color: white;
 }
 
-
 a:hover{
     color: silver;
 }
@@ -53,7 +52,6 @@ a:hover{
     text-decoration:none;
     margin-left:10px;
 }
-
 
 .navbar a{
     color:white;
