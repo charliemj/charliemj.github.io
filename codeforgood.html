@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Karleigh Moore's Portfolio">
+    <meta name="author" content="Karleigh Moore">
+    <link rel="icon" href="assets/img/km.png">
+    <title>Karleigh Moore</title>
+    <link href="assets/css/style.css" rel="stylesheet">
+ </head>
+
+<body>
+    <div class ="header">
+            <h1 class="home"><a href="/">Karleigh Moore</a></h1>
+            <nav class="navbar">
+                    <a href="projects.html">Projects</a>
+                    <a href="blog">Blog</a>
+                    <a href="contact.html">Contact</a>
+                    <a href="assets/kjmresume.pdf">Resume</a>       
+            </nav>
+        <svg id="tri" width="100%" height="40%" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <polygon points="100,100 100,0 0,100" style="fill:white"/>
+        </svg>
+    </div>
+
+    <div class="content">
+    <h1>Code for Good: Scheduler Web App</h1>
+    <h3>Project for MIT's 6.S187: Code For Good</h3>
+    <p>Check out the <a href= "https://github.com/kar-moore/pax-populi-scheduler">GitHub repo</a> for my group's project for Code for Good, a class I took at MIT during Jan 2017. I was a member of a four-person team, and we were paired up with Pax Populi, a local non-profit for education. We built and designed a web app to help pair tutors and students up for an 11-week class, making sure to account for timezone differences (the non-profit serves students and tutors around the globe) and daylight savings time complications, and some additional constraints.</p> 
+
+    <p>I helped design the scheduling algorithm from a high level (I didn't implement this in code, another team member did). I was one of two web developers on the team, so I had a big role in writing and debugging the web code. My main job was to implement functionalities for submitting, editing, and deleting class registrations from the backend to the UI. I also helped teach other team members about web development and the technologies that we used to build the app which were Node.js, MongoDB, Angular.js, Express.js, and Handlebars.js.</p>
+    
+    <img class="blogpic" src="assets/img/student.gif" alt="Student Registration"/>
+
+    <p>In addition to providing functionality for generating schedules for student-tutor pairs, we were tasked with replacing the organization's account registration system. We needed to support four types of users and collect different types of registration information from each type of user. I was in charge of building validation for our lengthy sign up and registration forms, and wrote code to provide user feedback on the forms (if they put in an invalid value, for example), writing client-side code that prevented form submission with bad or incomplete fields, and server-side code that validated data before writing it to the database. </p>
+
+    <img class="blogpic" src="assets/img/signup.gif" alt="Sign Up"/> 
+    
+    <p>For more info about this project, see my blog posts detailing our group's progress <a href="https://kar-moore.github.io/blog/update/iap2017-week1-update/">here</a>, <a href="https://kar-moore.github.io/blog/update/iap2017-week2-update/">here</a>, and <a href="https://kar-moore.github.io/blog/update/iap2017-week3+4-update/">here</a>.</p>
+
+    <footer id="footer">
+        <p>&copy; 2016 Karleigh Moore</p>
+    </footer>
+    </div>
+    
+</body>
+</html>
