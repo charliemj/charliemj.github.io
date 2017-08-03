@@ -4,12 +4,12 @@
 
 body{
     font-size: 1em;
-    line-height: 1.15;
+    line-height: 1.25;
     margin:0;
     max-width:100%;
     font-family: 'PT Serif', serif;
     color:black;
-} 
+}
 
 a{
     color: white;
@@ -46,7 +46,7 @@ a:hover{
     background-color: transparent;
     font-family: 'Lato', sans-serif;
     letter-spacing: -2px;
-}   
+}
 
 .home a{
     text-decoration:none;
@@ -78,14 +78,14 @@ a:hover{
     {
         display: none;
     }
-} 
+}
 
 @media (max-width: 480px){
     #tri
     {
         display: none;
     }
-} 
+}
 
 /*content section*/
 
@@ -156,19 +156,19 @@ a:hover{
 }
 
 /*css to make game cards more readable on the CMS projects page*/
-.card{ 
+.card{
     padding:2px;
     background-color:black;
     margin-bottom:5px;
 }
 
 /*used in photography, CMS, and overall projects page*/
-/*code for flex-container based off of the tutorial linked to in the assignment 
+/*code for flex-container based off of the tutorial linked to in the assignment
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
 .flex-container {
   display: flex;
-  flex-direction: row; 
-  flex-wrap: wrap; 
+  flex-direction: row;
+  flex-wrap: wrap;
   flex-flow: row wrap;
   align-items: center;
   align-content: center;
