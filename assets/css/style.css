@@ -94,13 +94,13 @@ a:hover{
     margin-right:160px;
     position:relative;
     font-size: 1.15em;
+    line-height: 1.6em;
 }
 
 .content a{
     color:black;
     text-decoration:none;
     border-bottom: .5px black dotted;
-    line-height: 1.6em;
 }
 
 .content a:hover{
