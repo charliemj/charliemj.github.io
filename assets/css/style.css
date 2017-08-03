@@ -97,9 +97,9 @@ a:hover{
 }
 
 .content a{
-    color:black;
+    color:#a9a9a9;
     text-decoration:none;
-    border-bottom: 1px black dotted;
+    //border-bottom: .5px black dotted;
 }
 
 .content a:hover{
