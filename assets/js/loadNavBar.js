@@ -9,5 +9,5 @@ $(document).ready(function(){
 
     $("title").append(siteTitle);
 
-    $("#footer p").append(" 2016 - ppresent | Charlie J. Moore");
+    $("#footer p").append(" 2016 - Present | Charlie J. Moore");
 });
