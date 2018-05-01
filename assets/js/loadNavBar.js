@@ -8,4 +8,5 @@ $(document).ready(function(){
     $("#nav").append("<a href='contact.html'>Contact</a>");
     $("#nav").append("<a href='assets/resume.pdf'>Resume</a>");
 
+    $("<title>").append(siteTitle);
 });
