@@ -1,1 +1,2 @@
-var siteTitle = "Charlie J. Moore"
+var siteTitle = "Charlie J. Moore";
+
