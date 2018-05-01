@@ -4,9 +4,10 @@ $(document).ready(function(){
     $("head").append(analytics);
     $("#nav").append("<a href='projects.html'>Projects</a>");
     $("#nav").append("<a href='https://charliemj.github.io/blog/'>Blog</a>");
-    // $("#nav").append("<a href='blog'>Blog</a>");
     $("#nav").append("<a href='contact.html'>Contact</a>");
-    $("#nav").append("<a href='assets/resume.pdf'>Resume</a>");
+    $("#nav").append("<a href='assets/"+resume_fname+">Resume</a>");
 
     $("title").append(siteTitle);
+
+    $("#footer p").append(" 2016 - ppresent | Charlie J. Moore");
 });
