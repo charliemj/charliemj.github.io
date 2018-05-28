@@ -5,7 +5,7 @@ $(document).ready(function(){
     $("#nav").append("<a href='projects.html'>Projects</a>");
     $("#nav").append("<a href='https://charliemj.github.io/blog/'>Blog</a>");
     $("#nav").append("<a href='contact.html'>Contact</a>");
-    $("#nav").append("<a href='assets/"+resume_fname+">Resume</a>");
+    $("#nav").append("<a href='assets/resume.pdf'>Resume</a>");
 
     $("title").append(siteTitle);
 
