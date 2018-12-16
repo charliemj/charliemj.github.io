@@ -173,7 +173,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
   flex-direction: row;
   flex-wrap: wrap;
   flex-flow: row wrap;
-  align-items: center;
+  align-items: stretch;
   align-content: center;
   justify-content: center;
 }
